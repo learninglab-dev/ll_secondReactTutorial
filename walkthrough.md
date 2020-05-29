@@ -1,6 +1,6 @@
 # Walkthrough
 
-Welcome to the second tutorial of reactLab #1!
+Welcome to the second tutorial of reactLab!
 
 This walkthrough is intended to give you most of the content, both step by step instructions and conceptual knowledge, of our second React tutorial. If you want to skip all the conceptual stuff and just build the app, all the actual todos are marked with this :collision: emoji.
 
